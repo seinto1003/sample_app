@@ -3,7 +3,7 @@ development:
   encoding: unicode
   database: deve_db
   pool: 5
-  username: developer
+  username: postgres 
   password:
 
 test:
